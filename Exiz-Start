@@ -1,8 +1,8 @@
-{
+0{
   "name": "Exiz-Repo",
   "description": "Exiz-Repo: Repository für Cloudstream-Plugins",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/FukaAbi97/Exiz-Repo/main/plugins.json"
+    "https://raw.githubusercontent.com/FukaAbi97/Avocado"
   ]
 }
